@@ -1,3 +1,6 @@
+$c[Trigger: [p]userinfo]
+$c[The "[p]" is your bot's prefix.]
+
 $nomention
 $suppressErrors
 $var[user;$findUser[$message[user];yes]]
